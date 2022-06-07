@@ -2,6 +2,7 @@
 Python script for tracking Solscan wallet transactions of certain addresses for NFT sales getting info from Magic Eden and sending messages in real time to your channel.
 
 **********************    Requirements     *********************
+
 You need to add a config file which contains all the creds.
 
 The config file will look like this:
