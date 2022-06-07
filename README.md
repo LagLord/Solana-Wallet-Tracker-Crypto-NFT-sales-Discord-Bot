@@ -11,6 +11,6 @@ BOT_TOKEN = "Your Bot token"
 
 CHANNEL_ID = Your channel ID where you want to receive a nice embedded message
 
-time_to_track = 600
+time_to_track = 600  # Time in seconds you want the loop to run 600 = 5 minutes transactions
 
 ACCOUNTS = {"Wallet name": "Wallet Address"}
