@@ -8,7 +8,9 @@ You need to add a config file which contains all the creds.
 The config file will look like this:
 
 BOT_TOKEN = "Your Bot token"
+
 CHANNEL_ID = Your channel ID where you want to receive a nice embedded message
+
 time_to_track = 600
 
 ACCOUNTS = {"Wallet name": "Wallet Address"}
