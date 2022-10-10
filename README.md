@@ -15,5 +15,6 @@ time_to_track = 600  # Time in seconds you want the loop to run 600 = 5 minutes 
 
 ACCOUNTS = {"Wallet name": "Wallet Address"}
 
+I used this script only once so I'd recommend the Chrome Extension if there are some issues.
 
-## You can also check out my chrome extension [here](https://chrome.google.com/webstore/detail/solana-wallet-tracker-nft/hhjfamcgbbklnlflaheknfhigannbjjn).
+## Check out my chrome extension [here](https://chrome.google.com/webstore/detail/solana-wallet-tracker-nft/hhjfamcgbbklnlflaheknfhigannbjjn).
